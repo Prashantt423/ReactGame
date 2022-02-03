@@ -5,7 +5,7 @@ const data = {
     dx: 5,
     dy: 5,
     rad: 14,
-    speed: 10,
+    speed: 20,
   },
   brickObj: {
     x: 0.5,
